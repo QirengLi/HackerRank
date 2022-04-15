@@ -1,0 +1,8 @@
+C:\Users\Calvin Li\Desktop\HackerRank\Plus_Minus\Plus_Minus\bin\Debug\Plus_Minus.exe.config
+C:\Users\Calvin Li\Desktop\HackerRank\Plus_Minus\Plus_Minus\bin\Debug\Plus_Minus.exe
+C:\Users\Calvin Li\Desktop\HackerRank\Plus_Minus\Plus_Minus\bin\Debug\Plus_Minus.pdb
+C:\Users\Calvin Li\Desktop\HackerRank\Plus_Minus\Plus_Minus\obj\Debug\Plus_Minus.csproj.AssemblyReference.cache
+C:\Users\Calvin Li\Desktop\HackerRank\Plus_Minus\Plus_Minus\obj\Debug\Plus_Minus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calvin Li\Desktop\HackerRank\Plus_Minus\Plus_Minus\obj\Debug\Plus_Minus.csproj.CoreCompileInputs.cache
+C:\Users\Calvin Li\Desktop\HackerRank\Plus_Minus\Plus_Minus\obj\Debug\Plus_Minus.exe
+C:\Users\Calvin Li\Desktop\HackerRank\Plus_Minus\Plus_Minus\obj\Debug\Plus_Minus.pdb
